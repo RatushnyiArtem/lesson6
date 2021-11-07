@@ -1,0 +1,89 @@
+.mother{
+    height: 300px;
+    display: block;
+    width: 500px;
+    margin: auto;
+}
+.child{
+    height: 100px;
+    width: 500px;
+    background-color: black;
+}
+.child_1{
+    height: 100px;
+    width: 500px;
+    background-color: red;
+}
+.child_2{
+    height: 100px;
+    width: 500px;
+    background-color: yellow;
+}
+.main{
+    height: 120px;
+    width: 600px;
+    display: flex;
+    margin: auto;
+    padding-top: 40px;
+}
+.occup{
+    height: 120px;
+    width: 200px;
+    background-color: purple;
+}
+.occup_1{
+    height: 120px;
+    width: 200px;
+    background-color: tomato;
+}
+.occup_2{
+    width: 200px;
+    height: 120px;
+    background-color: yellow;
+}
+.full{
+    background-color: green;
+    width: 600px;
+    height: 120px;
+}
+.frame{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+}
+.block{
+    width: 300px;
+    height: 120px;
+    background-color: sienna;
+}
+.constructor{
+width: 300px;
+height: 120px;
+background-color: slateblue;
+}
+.mai{
+    width: 600px;
+    height: 120px;
+    display: flex;
+}
+.key{
+    height: 400px;
+    width: 400px;
+    background: linear-gradient(red,violet);
+    margin: auto;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.closer{
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(black,gray,white);
+    margin: auto;
+    color: snow ;
+}
+p{
+    margin: 10px;
+}
